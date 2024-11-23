@@ -131,6 +131,7 @@ void loop()
 ```
 # CIRCUIT DIAGRAM:
 ![322834836-b93f4d6c-5999-48b1-9c6b-a27bcbd406a2](https://github.com/user-attachments/assets/2fce6384-ed8e-40d1-ab28-53cb95215ecb)
+![image](https://github.com/user-attachments/assets/115538ed-3548-4c43-a9ec-39eb0644678f)
 
 # OUTPUT:
 
