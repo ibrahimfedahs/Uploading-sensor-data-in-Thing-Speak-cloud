@@ -1,7 +1,7 @@
-# EX NO: 03
-# Uploading temperature sensor data in Thing Speak cloud
-## NAME: IBRAHIM FEDAH S
-## REG NO:212223240056
+NAME: IBRHAIM FEDAH S
+REG NO: 212223240056
+# EX NO:3 Uploading temperature sensor data in Thing Speak cloud
+
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
 
